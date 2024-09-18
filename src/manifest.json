@@ -1,0 +1,30 @@
+{
+  "short_name": "Pokemon page",
+  "name": "Pokemon page",
+  "icons": [
+    {
+      "src": "poke.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "poke.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "poke.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "poksearch.png",
+      "type": "image/png",
+      "sizes": "1024x1024"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
